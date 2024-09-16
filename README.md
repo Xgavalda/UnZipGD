@@ -84,11 +84,11 @@ Comprimir archivos en un archivo ZIP protegido con contraseña:
 
 ## Licencia
 
-Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
+Este proyecto está licenciado bajo la Licencia MIT.
 
 ## Contribución
 
-Las contribuciones son bienvenidas! Por favor, sigue las [guías de contribución](CONTRIBUTING.md) para suministrar cambios.
+Las contribuciones son bienvenidas! Por favor, sigue las guías de contribución para suministrar cambios.
 
 ## Autor
 
